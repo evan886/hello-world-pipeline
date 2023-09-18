@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Hello world evan '
+                echo 'Hello  evan sep 2023'
             }
         }
     }
